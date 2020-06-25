@@ -1,0 +1,5 @@
+This code is designed to run on Raspberri PI 3B+.
+
+To run the code devices on GY89 Inertial Measuring Unit must be connected on channel 1 by default. However, channel can be changed but testeing is performed only on channel 1.
+
+Single Address line on sensor must be pulled down when device is being read. 
