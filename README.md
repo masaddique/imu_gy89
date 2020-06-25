@@ -1,8 +1,7 @@
-# imu_gy89
-Implementation of position, velocity and orientation using Kalman Filter
 
 TO RUN THE CODE SEE EXAMPLE IN GY89.PY
 The parameters are locked to be run on 50 Hz but it is variable and speeds upto 100Hz and more based on gyros and accelerometer parameters.
+
 Regards,
 
 M Ahsan Saddique
